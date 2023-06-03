@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **tyagiriya517@gmail.com**
 
-- ⚡ Fun fact **I think I am Cool 😉🤪**
+- ⚡ Fun fact **I think I am Passionate😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
