@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riya Tyagi</h1>
 <h3 align="center">A Passionate First year Engineering Student.</h3>
-<img align="right" alt="Coding" width="200" src=https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif
+<img align="right" alt="Coding" width="300" src=https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyatyag&label=Profile%20views&color=0e75b6&style=flat" alt="riyatyag" /> </p>
 
